@@ -1,0 +1,16 @@
+{
+  "language.name": "English",
+  "language.region": "United Kingdom",
+  "language.code": "en_gb",
+  
+  "item.minecraft.chicken": "Raw Chocobo",
+  "item.minecraft.cooked_chicken": "Roast Chocobo",
+  "item.minecraft.chicken_spawn_egg": "Chocobo Spawn Egg",
+  
+  "entity.minecraft.chicken": "Chocobo",
+  
+  "subtitles.entity.chicken.ambient": "Chocobo clucks",
+  "subtitles.entity.chicken.death": "Chocobo dies",
+  "subtitles.entity.chicken.egg": "Chocobo plops",
+  "subtitles.entity.chicken.hurt": "Chocobo hurts"
+}

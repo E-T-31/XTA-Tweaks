@@ -1,0 +1,94 @@
+{
+	"credit": "Made by E_T_31 | https://www.youtube.com/c/E_T_31official/",
+	"credit": "const. https://www.youtube.com/channel/UCn7SVWE9X5I2-EKUtT6sU4Q",
+
+	"texture": "trident.png",
+	"textureSize": [32, 32],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -27, 0],
+			"boxes": [
+				{
+					"coordinates": [-0.5, 0, -0.5, 1, 31, 1],
+					"uvNorth": [1, 1, 2, 32],
+					"uvEast": [0, 1, 1, 32],
+					"uvSouth": [3, 1, 4, 32],
+					"uvWest": [2, 1, 3, 32],
+					"uvUp": [2, 1, 1, 0],
+					"uvDown": [3, 0, 2, 1]
+				},
+				{
+					"coordinates": [-2.5, 24, -0.5, 1, 6, 1],
+					"uvNorth": [23, 2, 24, 8],
+					"uvEast": [23, 2, 24, 8],
+					"uvSouth": [23, 2, 24, 8],
+					"uvWest": [23, 2, 24, 8],
+					"uvUp": [23, 2, 24, 3],
+					"uvDown": [23, 7, 24, 8]
+				},
+				{
+					"coordinates": [1.5, 24, -0.5, 1, 6, 1],
+					"uvNorth": [19, 2, 20, 8],
+					"uvEast": [19, 2, 20, 8],
+					"uvSouth": [19, 2, 20, 8],
+					"uvWest": [19, 2, 20, 8],
+					"uvUp": [19, 2, 20, 3],
+					"uvDown": [19, 7, 20, 8]
+				},
+				{
+					"coordinates": [0.5, 23, -0.5, 1, 3, 1],
+					"uvNorth": [20, 6, 21, 9],
+					"uvEast": [20, 6, 21, 9],
+					"uvSouth": [20, 6, 21, 9],
+					"uvUp": [21, 7, 20, 6],
+					"uvDown": [21, 8, 20, 9]
+				},
+				{
+					"coordinates": [-1.5, 23, -0.5, 1, 3, 1],
+					"uvNorth": [20, 6, 21, 9],
+					"uvSouth": [20, 6, 21, 9],
+					"uvWest": [20, 6, 21, 9],
+					"uvUp": [21, 7, 20, 6],
+					"uvDown": [21, 8, 20, 9]
+				},
+				{
+					"coordinates": [-3.5, 25, -0.5, 1, 2, 1],
+					"uvNorth": [24, 5, 25, 7],
+					"uvSouth": [24, 5, 25, 7],
+					"uvWest": [24, 5, 25, 7],
+					"uvUp": [24, 5, 25, 6],
+					"uvDown": [24, 6, 25, 7]
+				},
+				{
+					"coordinates": [2.5, 25, -0.5, 1, 2, 1],
+					"uvNorth": [24, 5, 25, 7],
+					"uvEast": [24, 5, 25, 7],
+					"uvSouth": [24, 5, 25, 7],
+					"uvUp": [24, 5, 25, 6],
+					"uvDown": [24, 6, 25, 7]
+				},
+				{
+					"coordinates": [-4.5, 26, -0.5, 1, 3, 1],
+					"uvNorth": [25, 3, 26, 6],
+					"uvEast": [25, 3, 26, 6],
+					"uvSouth": [25, 3, 26, 6],
+					"uvWest": [25, 3, 26, 6],
+					"uvUp": [25, 3, 26, 4],
+					"uvDown": [25, 5, 26, 6]
+				},
+				{
+					"coordinates": [3.5, 26, -0.5, 1, 3, 1],
+					"uvNorth": [25, 3, 26, 6],
+					"uvEast": [25, 3, 26, 6],
+					"uvSouth": [25, 3, 26, 6],
+					"uvWest": [25, 3, 26, 6],
+					"uvUp": [25, 3, 26, 4],
+					"uvDown": [25, 5, 26, 6]
+				}
+			]
+		}
+	]
+}

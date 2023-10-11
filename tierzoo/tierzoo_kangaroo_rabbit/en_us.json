@@ -1,0 +1,21 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+  
+  "item.minecraft.rabbit": "Raw Kangaroo",
+  "item.minecraft.cooked_rabbit": "Cooked Kangaroo",
+  "item.minecraft.rabbit_stew": "Kangaroo Stew",
+  "item.minecraft.rabbit_foot": "Kangaroo's Foot",
+  "item.minecraft.rabbit_hide": "Kangaroo Hide",
+  "item.minecraft.rabbit_spawn_egg": "Kangaroo Spawn Egg",
+  
+  "entity.minecraft.rabbit": "Kangaroo",
+  "entity.minecraft.killer_bunny": "The Killer Macropod",
+  
+  "subtitles.entity.rabbit.ambient": "Kangaroo growls",
+  "subtitles.entity.rabbit.attack": "Kangaroo boxes",
+  "subtitles.entity.rabbit.death": "Kangaroo dies",
+  "subtitles.entity.rabbit.hurt": "Kangaroo hurts",
+  "subtitles.entity.rabbit.jump": "Kangaroo jumps"
+}

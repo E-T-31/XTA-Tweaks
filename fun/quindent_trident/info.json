@@ -1,0 +1,10 @@
+{
+	"title_en": "Quindent",
+	"title_de": "Fünfzack",
+	
+    "desc_en": "Turns tridents into five-pronged quindents.",
+    "desc_de": "Macht Dreizacke zu fünfzinkigen Fünfzacken.",
+
+    "of_required": true,
+    "of_advised": false
+}

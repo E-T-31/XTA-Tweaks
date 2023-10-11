@@ -1,0 +1,10 @@
+{
+	"title_en": "Clearer Underwater View",
+	"title_de": "Klarerer Tauchansicht",
+	
+    "desc_en": "Clears the underwater overlay for a brighter submerged view.",
+    "desc_de": "Entfernt das Unterwasser-Overlay für eine hellere Tauchansicht.",
+
+    "of_required": false,
+    "of_advised": false
+}

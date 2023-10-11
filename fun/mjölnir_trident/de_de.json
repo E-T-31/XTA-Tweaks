@@ -1,0 +1,19 @@
+{
+  "language.name": "Deutsch",
+  "language.region": "Deutschland",
+  "language.code": "de_de",
+  
+  "item.minecraft.trident": "Mjölnir",
+  "entity.minecraft.trident": "Mjölnir",
+  "death.attack.trident": "%1$s wurde von %2$s zerschmettert",
+  "death.attack.trident.item": "%1$s wurde von %2$s mit %3$s zermalmt",
+  "subtitles.entity.drowned.shoot": "Ertrunkener wirft Mjölnir",
+  "subtitles.item.trident.hit": "Mjölnir trifft auf",
+  "subtitles.item.trident.hit_ground": "Mjölnir vibriert",
+  "subtitles.item.trident.return": "Mjölnir kehrt zurück",
+  "subtitles.item.trident.riptide": "Mjölnir zieht",
+  "subtitles.item.trident.throw": "Mjölnir klirrt",
+  "subtitles.item.trident.thunder": "Mjölnirdonner grollt",
+  "advancements.adventure.throw_trident.title": "Ein Asgardischer Scherz",
+  "advancements.adventure.throw_trident.description": "Schleuder Mjölnir auf irgendetwas.\nHinweis: Es ist keine gute Idee eines Gottes Waffe wegzuwerfen."
+}

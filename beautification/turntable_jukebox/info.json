@@ -1,0 +1,10 @@
+{
+	"title_en": "Turntable",
+	"title_de": "Plattenspieler",
+	
+    "desc_en": "Turns the jukebox into a nice vintage turntable.",
+    "desc_de": "Verwandelt deine Jukebox in einen schönen Vintage-Plattenspieler.",
+
+    "of_required": false,
+    "of_advised": false
+}

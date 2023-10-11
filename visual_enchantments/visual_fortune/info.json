@@ -1,0 +1,10 @@
+{
+    "title_en": "Fortune",
+	"title_de": "Glück",
+	
+    "desc_en": "Displays if an item is enchanted with Fortune.",
+    "desc_de": "Zeigt an, ob ein Gegenstand mit Glück verzaubert ist.",
+
+    "of_required": true,
+    "of_advised": false
+}

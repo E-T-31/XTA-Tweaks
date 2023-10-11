@@ -1,0 +1,10 @@
+{
+	"title_en": "Rainbow Copper",
+	"title_de": "Regenbogen-Kupfer",
+	
+    "desc_en": "Makes all copper items change color like a rainbow.",
+    "desc_de": "Lässt sich alle Kupfergegenstände regnbogenfarben verändern.",
+
+    "of_required": false,
+    "of_advised": false
+}

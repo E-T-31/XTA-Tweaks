@@ -1,0 +1,10 @@
+{
+	"title_en": "Better Hoppers",
+	"title_de": "Verbesserte Trichter",
+	
+    "desc_en": "Shows in which direction a hopper is facing & fixes its bottom texture.",
+    "desc_de": "Zeigt an, in welche Richtung ein Trichter zeigt & berichtigt seine Unterseitentextur.",
+
+    "of_required": false,
+    "of_advised": false
+}

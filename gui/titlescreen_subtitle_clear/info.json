@@ -1,0 +1,10 @@
+{
+	"title_en": "No Edition Title",
+	"title_de": "Kein Editionstitel",
+	
+    "desc_en": "Removes the ""Java Edition"" title from the main menu.",
+    "desc_de": "Entfernt den ""Java Edition""-Titel aus dem Hauptmenü.",
+
+    "of_required": false,
+    "of_advised": false
+}

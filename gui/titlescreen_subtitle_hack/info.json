@@ -1,0 +1,10 @@
+{
+	"title_en": "Hack Edition",
+	"title_de": "Hack-Edition",
+	
+    "desc_en": "Changes the edition title in the main menu to ""Hack Edition"".",
+    "desc_de": "Ändert den Editionstitel im Hauptmenü zu ""Hack Edition"".",
+
+    "of_required": false,
+    "of_advised": false
+}

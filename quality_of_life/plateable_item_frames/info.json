@@ -1,0 +1,10 @@
+{
+	"title_en": "Plate-able Item Frames",
+	"title_de": "Rahmen-Teller",
+	
+    "desc_en": "Fixes Z-fighting when making plates from item frames & pressure plates.",
+    "desc_de": "Repariert das Z-Fighting beim Schaffen von Tellern aus Rahmen & Druckplatten.",
+
+    "of_required": false,
+    "of_advised": false
+}

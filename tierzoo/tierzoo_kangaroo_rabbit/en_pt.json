@@ -1,0 +1,21 @@
+{
+  "language.name": "Pirate Speak",
+  "language.region": "The Seven Seas",
+  "language.code": "en_pt",
+  
+  "item.minecraft.rabbit": "Raw Roo",
+  "item.minecraft.cooked_rabbit": "Cooked Roo",
+  "item.minecraft.rabbit_stew": "Stoo o' Rew",
+  "item.minecraft.rabbit_foot": "Foot o' Roo",
+  "item.minecraft.rabbit_hide": "Hide o' Roo",
+  "item.minecraft.rabbit_spawn_egg": "Roo Cackle Fruit",
+  
+  "entity.minecraft.rabbit": "Roo",
+  "entity.minecraft.killer_bunny": "Boxin' Horror",
+  
+  "subtitles.entity.rabbit.ambient": "Roo growls",
+  "subtitles.entity.rabbit.attack": "Roo boxes",
+  "subtitles.entity.rabbit.death": "Roo dies",
+  "subtitles.entity.rabbit.hurt": "Roo hurts",
+  "subtitles.entity.rabbit.jump": "Roo jumps"
+}

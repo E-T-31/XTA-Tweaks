@@ -1,0 +1,10 @@
+{
+	"title_en": "Chocobos",
+	"title_de": "Chocobos",
+	
+    "desc_en": "Turns chickens into different colored Chocobos (& a swane).",
+    "desc_de": "Verwandelt Hühner in verschiedenfarbige Chocobos (& einen Schwan).",
+
+    "of_required": true,
+    "of_advised": false
+}

@@ -1,0 +1,10 @@
+{
+	"title_en": "Colorful Axolotl Buckets",
+	"title_de": "Bunte Axoltleimer",
+	
+    "desc_en": "Gives each Bucket of Axolotl the correct coloring.",
+    "desc_de": "Gibt jedem Axolotl in seinem Eimer die korrekte Färbung.",
+
+    "of_required": true,
+    "of_advised": false
+}

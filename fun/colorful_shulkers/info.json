@@ -1,0 +1,10 @@
+{
+	"title_en": "Colorful Shulkers",
+	"title_de": "Bunte Shulker",
+	
+    "desc_en": "Stains each shulker in one of Minecraft's sixteen colors.",
+    "desc_de": "Färbt jeden Shulker in einer der sechzehn Farben von Minecraft.",
+
+    "of_required": true,
+    "of_advised": false
+}

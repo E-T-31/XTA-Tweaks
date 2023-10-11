@@ -1,0 +1,25 @@
+{
+	"credit": "Made by E_T_31 | https://www.youtube.com/c/E_T_31official/",
+	"credit": "const. https://www.youtube.com/channel/UCn7SVWE9X5I2-EKUtT6sU4Q",
+	
+	"variants": {
+    "has_record=false": {
+      "model": "minecraft:block/jukebox/inactive"
+    },
+    "has_record=true": [
+		{ "model": "minecraft:block/jukebox/11" },
+		{ "model": "minecraft:block/jukebox/13" },
+		{ "model": "minecraft:block/jukebox/blocks" },
+		{ "model": "minecraft:block/jukebox/cat" },
+		{ "model": "minecraft:block/jukebox/chirp" },
+		{ "model": "minecraft:block/jukebox/far" },
+		{ "model": "minecraft:block/jukebox/mall" },
+		{ "model": "minecraft:block/jukebox/mellohi" },
+		{ "model": "minecraft:block/jukebox/pigstep" },
+		{ "model": "minecraft:block/jukebox/stal" },
+		{ "model": "minecraft:block/jukebox/strad" },
+		{ "model": "minecraft:block/jukebox/wait" },
+		{ "model": "minecraft:block/jukebox/ward" }
+	]
+  }
+}

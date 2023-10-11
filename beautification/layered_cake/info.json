@@ -1,0 +1,10 @@
+{
+	"title_en": "Layered Cake",
+	"title_de": "Stufentorte",
+	
+    "desc_en": "Adds two more layers to your cake.",
+    "desc_de": "Fügt deiner Torte zwei weitere Stufen hinzu.",
+
+    "of_required": false,
+    "of_advised": false
+}

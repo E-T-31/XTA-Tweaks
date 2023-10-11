@@ -1,0 +1,9 @@
+{
+    "credit": "Created by E_T_31 | https://www.youtube.com/c/E_T_31official/",
+    "credit": "const. https://www.youtube.com/channel/UCn7SVWE9X5I2-EKUtT6sU4Q",
+
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "minecraft:block/strongly_weathered_cut_copper"
+    }
+}

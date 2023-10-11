@@ -1,0 +1,37 @@
+{
+	"credit": "Created by E_T_31 | https://www.youtube.com/c/E_T_31official/",
+	"credit": "const. https://www.youtube.com/channel/UCn7SVWE9X5I2-EKUtT6sU4Q",
+	
+	"textures": {
+		"bottom": "block/cake_bottom",
+		"top": "block/cake_top",
+		"particle": "block/cake_side",
+		"side": "block/cake_side",
+		"inside": "block/cake_inner"
+	},
+	"elements": [
+		{
+			"from": [11, 0, 1],
+			"to": [15, 8, 15],
+			"faces": {
+				"north": {"uv": [1, 8, 5, 16], "texture": "#side"},
+				"east": {"uv": [1, 8, 15, 16], "texture": "#side"},
+				"south": {"uv": [11, 8, 15, 16], "texture": "#side"},
+				"west": {"uv": [1, 8, 15, 16], "texture": "#inside"},
+				"up": {"uv": [11, 1, 15, 15], "texture": "#top"},
+				"down": {"uv": [11, 1, 15, 15], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [11, 8, 3],
+			"to": [13, 14, 13],
+			"faces": {
+				"north": {"uv": [0, 2, 2, 8], "texture": "#side"},
+				"east": {"uv": [0, 2, 10, 8], "texture": "#side"},
+				"south": {"uv": [8, 2, 10, 8], "texture": "#side"},
+				"west": {"uv": [0, 2, 10, 8], "texture": "#inside"},
+				"up": {"uv": [11, 3, 13, 13], "texture": "#top"}
+			}
+		}
+	]
+}

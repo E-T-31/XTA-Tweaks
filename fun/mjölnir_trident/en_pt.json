@@ -1,0 +1,19 @@
+{
+  "language.name": "Pirate Speak",
+  "language.region": "The Seven Seas",
+  "language.code": "en_pt",
+  
+  "item.minecraft.trident": "Magick Hammer",
+  "entity.minecraft.trident": "Magick Hammer",
+  "death.attack.trident": "%1$s was crushed by %2$s",
+  "death.attack.trident.item": "%1$s was pounded by %2$s with %3$s",
+  "subtitles.entity.drowned.shoot": "Sunken Sailor throws Magick Hammer",
+  "subtitles.item.trident.hit": "Magick Hammer hits",
+  "subtitles.item.trident.hit_ground": "Magick Hammer vibrates",
+  "subtitles.item.trident.return": "Magick Hammer returns",
+  "subtitles.item.trident.riptide": "Magick Hammer zooms",
+  "subtitles.item.trident.throw": "Magick Hammer clangs",
+  "subtitles.item.trident.thunder": "Magick Hammer thunder cracks",
+  "advancements.adventure.throw_trident.title": "An Asgardian Joke",
+  "advancements.adventure.throw_trident.description": "Throw Magick Hammer at somethin'.\nNote: Throwing away a mighty one's weapon is not a good idea."
+}

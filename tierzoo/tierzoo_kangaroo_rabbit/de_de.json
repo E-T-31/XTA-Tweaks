@@ -1,0 +1,21 @@
+{
+  "language.name": "Deutsch",
+  "language.region": "Deutschland",
+  "language.code": "de_de",
+  
+  "item.minecraft.rabbit": "Rohes Känguru",
+  "item.minecraft.cooked_rabbit": "Gebratenes Känguru",
+  "item.minecraft.rabbit_stew": "Kängururagout",
+  "item.minecraft.rabbit_foot": "Kängurupfote",
+  "item.minecraft.rabbit_hide": "Kängurufell",
+  "item.minecraft.rabbit_spawn_egg": "Känguru-Spawn-Ei",
+  
+  "entity.minecraft.rabbit": "Känguru",
+  "entity.minecraft.killer_bunny": "Der Mordende Beutelhase",
+  
+  "subtitles.entity.rabbit.ambient": "Kangaroo knurrt",
+  "subtitles.entity.rabbit.attack": "Kangaroo boxt",
+  "subtitles.entity.rabbit.death": "Kangaroo stirbt",
+  "subtitles.entity.rabbit.hurt": "Kangaroo nimmt Schaden",
+  "subtitles.entity.rabbit.jump": "Kangaroo springt"
+}

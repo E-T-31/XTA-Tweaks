@@ -1,0 +1,22 @@
+{
+  "language.name": "Pirate Speak",
+  "language.region": "The Seven Seas",
+  "language.code": "en_pt",
+  
+  "item.minecraft.dolphin_spawn_egg": "Sharptooth Cackle Fruit",
+  
+  "entity.minecraft.dolphin": "Sharptooth",
+  
+  "effect.minecraft.dolphins_grace": "Sharptooth-O-Phobia",
+  
+  "subtitles.entity.dolphin.ambient": "Sharptooth growls",
+  "subtitles.entity.dolphin.ambient_water": "Sharptooth snaps",
+  "subtitles.entity.dolphin.attack": "Sharptooth attacks",
+  "subtitles.entity.dolphin.death": "Sharptooth dies",
+  "subtitles.entity.dolphin.eat": "Sharptooth eats",
+  "subtitles.entity.dolphin.hurt": "Sharptooth hurts",
+  "subtitles.entity.dolphin.jump": "Sharptooth jumps",
+  "subtitles.entity.dolphin.play": "Sharptooth plays",
+  "subtitles.entity.dolphin.splash": "Sharptooth splashes",
+  "subtitles.entity.dolphin.swim": "Sharptooth swims"
+}

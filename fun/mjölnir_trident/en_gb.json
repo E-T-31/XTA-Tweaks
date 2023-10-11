@@ -1,0 +1,19 @@
+{
+  "language.name": "English",
+  "language.region": "United Kingdom",
+  "language.code": "en_gb",
+  
+  "item.minecraft.trident": "Mjölnir",
+  "entity.minecraft.trident": "Mjölnir",
+  "death.attack.trident": "%1$s was crushed by %2$s",
+  "death.attack.trident.item": "%1$s was pounded by %2$s with %3$s",
+  "subtitles.entity.drowned.shoot": "Drowned throws Mjölnir",
+  "subtitles.item.trident.hit": "Mjölnir hits",
+  "subtitles.item.trident.hit_ground": "Mjölnir vibrates",
+  "subtitles.item.trident.return": "Mjölnir returns",
+  "subtitles.item.trident.riptide": "Mjölnir zooms",
+  "subtitles.item.trident.throw": "Mjölnir clangs",
+  "subtitles.item.trident.thunder": "Mjölnir thunder cracks",
+  "advancements.adventure.throw_trident.title": "An Asgardian Joke",
+  "advancements.adventure.throw_trident.description": "Throw Mjölnir at something.\nNote: Throwing away a god's weapon is not a good idea."
+}

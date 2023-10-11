@@ -1,0 +1,22 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+  
+  "item.minecraft.dolphin_spawn_egg": "Shark Spawn Egg",
+  
+  "entity.minecraft.dolphin": "Shark",
+  
+  "effect.minecraft.dolphins_grace": "Fear of Sharks",
+  
+  "subtitles.entity.dolphin.ambient": "Shark growls",
+  "subtitles.entity.dolphin.ambient_water": "Shark snaps",
+  "subtitles.entity.dolphin.attack": "Shark attacks",
+  "subtitles.entity.dolphin.death": "Shark dies",
+  "subtitles.entity.dolphin.eat": "Shark eats",
+  "subtitles.entity.dolphin.hurt": "Shark hurts",
+  "subtitles.entity.dolphin.jump": "Shark jumps",
+  "subtitles.entity.dolphin.play": "Shark plays",
+  "subtitles.entity.dolphin.splash": "Shark splashes",
+  "subtitles.entity.dolphin.swim": "Shark swims"
+}

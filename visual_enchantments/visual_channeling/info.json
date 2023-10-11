@@ -1,0 +1,10 @@
+{
+	"title_en": "Channeling",
+	"title_de": "Entladung",
+	
+    "desc_en": "Displays if an item is enchanted with Channeling.",
+    "desc_de": "Zeigt an, ob ein Gegenstand mit Entladung verzaubert ist.",
+
+    "of_required": true,
+    "of_advised": false
+}

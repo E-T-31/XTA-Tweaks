@@ -1,0 +1,10 @@
+{
+	"title_en": "Less Snowfall",
+	"title_de": "Schwächeres Schneien",
+	
+    "desc_en": "Reduces the amount of snowfall.",
+    "desc_de": "Verringert die Schneefalldichte.",
+	
+    "of_required": false,
+    "of_advised": false
+}

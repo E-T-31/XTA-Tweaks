@@ -1,0 +1,22 @@
+{
+  "language.name": "Deutsch",
+  "language.region": "Deutschland",
+  "language.code": "de_de",
+  
+  "item.minecraft.dolphin_spawn_egg": "Hai-Spawn-Ei",
+  
+  "entity.minecraft.dolphin": "Hai",
+  
+  "effect.minecraft.dolphins_grace": "Angst vor Haien",
+  
+  "subtitles.entity.dolphin.ambient": "Hai knurrt",
+  "subtitles.entity.dolphin.ambient_water": "Hai schnappt",
+  "subtitles.entity.dolphin.attack": "Hai greift an",
+  "subtitles.entity.dolphin.death": "Hai stirbt",
+  "subtitles.entity.dolphin.eat": "Hai frisst",
+  "subtitles.entity.dolphin.hurt": "Hai nimmt Schaden",
+  "subtitles.entity.dolphin.jump": "Hai springt",
+  "subtitles.entity.dolphin.play": "Hai spielt",
+  "subtitles.entity.dolphin.splash": "Hai platscht",
+  "subtitles.entity.dolphin.swim": "Hai schwimmt"
+}

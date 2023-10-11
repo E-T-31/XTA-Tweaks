@@ -1,0 +1,10 @@
+{
+	"title_en": "Galactic Binoculars",
+	"title_de": "Galaktisches Fernglas",
+	
+    "desc_en": "Changes the spyglass to binoculars from a galaxy far far away.",
+    "desc_de": "Ändert das Fernrohr zu einem Fernglas aus einer weit, weit entfernten Galaxis.",
+
+    "of_required": false,
+    "of_advised": false
+}

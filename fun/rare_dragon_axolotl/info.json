@@ -1,0 +1,10 @@
+{
+	"title_en": "Night Furies",
+	"title_de": "Nachtschatten",
+	
+    "desc_en": "Turns the rare blue axolotl into a Night Fury. \nPS: Try renaming it.",
+    "desc_de": "Verwandelt das seltene blaue Axolotl in einen Nachtschatten. \nPS: Versuch doch mal, es umzubenennen.",
+
+    "of_required": true,
+    "of_advised": false
+}

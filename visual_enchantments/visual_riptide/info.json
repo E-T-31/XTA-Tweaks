@@ -1,0 +1,10 @@
+{
+    "title_en": "Riptide",
+	"title_de": "Sog",
+	
+    "desc_en": "Displays if an item is enchanted with Riptide.",
+    "desc_de": "Zeigt an, ob ein Gegenstand mit Sog verzaubert ist.",
+
+    "of_required": true,
+    "of_advised": false
+}

@@ -1,0 +1,10 @@
+{
+	"title_en": "Crew Statues",
+	"title_de": "Crew-Statuen",
+	
+    "desc_en": "Turns your armor stands into E_T_31 & his friends.",
+    "desc_de": "Verwandelt deine Rüstungsständer in E_T_31 & seine Freunde.",
+
+    "of_required": true,
+    "of_advised": false
+}

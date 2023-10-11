@@ -1,0 +1,16 @@
+{
+  "language.name": "Pirate Speak",
+  "language.region": "The Seven Seas",
+  "language.code": "en_pt",
+  
+  "item.minecraft.trident": "Fifdent",
+  "entity.minecraft.trident": "Fifdent",
+  "subtitles.entity.drowned.shoot": "Sunken Sailor throws Fifdent",
+  "subtitles.item.trident.hit": "Fifdent hits",
+  "subtitles.item.trident.hit_ground": "Fifdent vibrates",
+  "subtitles.item.trident.return": "Fifdent returns",
+  "subtitles.item.trident.riptide": "Fifdent zooms",
+  "subtitles.item.trident.throw": "Fifdent clangs",
+  "subtitles.item.trident.thunder": "Fifdent thunder cracks",
+  "advancements.adventure.throw_trident.description": "Throw a fifdent at somethin'.\nNote: Throwing away your only weapon is not a good idea."
+}

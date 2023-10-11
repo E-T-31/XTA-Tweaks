@@ -1,0 +1,10 @@
+{
+	"title_en": "E_T_31 Cyclops Turtle",
+	"title_de": "E_T_31-Zyklopenschildkröte",
+	
+    "desc_en": "Turns turtles into one-eyed E_T_31 turtles.",
+    "desc_de": "Macht Schildkröten zu einäugigen E_T_31-Schildkröten.",
+    
+    "of_required": false,
+    "of_advised": true
+}

@@ -1,0 +1,10 @@
+{
+	"title_en": "Mjölnir",
+	"title_de": "Mjölnir",
+	
+    "desc_en": "Turns tridents into the Hammer of Thor: Mjölnir.",
+    "desc_de": "Macht Dreizacke zum Hammer des Thor: Mjölnir.",
+
+    "of_required": true,
+    "of_advised": false
+}

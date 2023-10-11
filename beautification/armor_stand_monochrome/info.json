@@ -1,0 +1,13 @@
+{
+	"title_en": "Armor Statues",
+	"title_de": "Rüstungsstatuen",
+	
+    "desc_en": "Turns your armor stands into stone statues or even real people out of flesh & blood.",
+    "desc_de": "Verwandelt deine Rüstungsständer in Steinstatuen oder sogar echte Menschen aus Fleisch & Blut.",
+	
+	"mono_desc_en": "Choose whether you want monochrome stone statues or alive people.",
+    "mono_desc_de": "Wähle ob du steinerne Statuen oder lebendige Menschen möchtest.",
+
+    "of_required": true,
+    "of_advised": false
+}

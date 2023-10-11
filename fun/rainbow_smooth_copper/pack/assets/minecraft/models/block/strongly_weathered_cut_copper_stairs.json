@@ -1,0 +1,11 @@
+{
+	"credit": "Created by E_T_31 | https://www.youtube.com/c/E_T_31official/",
+    "credit": "const. https://www.youtube.com/channel/UCn7SVWE9X5I2-EKUtT6sU4Q",
+
+    "parent": "minecraft:block/stairs",
+    "textures": {
+        "bottom": "minecraft:block/strongly_weathered_cut_copper",
+        "top": "minecraft:block/strongly_weathered_cut_copper",
+        "side": "minecraft:block/strongly_weathered_cut_copper"
+    }
+}

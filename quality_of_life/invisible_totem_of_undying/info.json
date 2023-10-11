@@ -1,0 +1,10 @@
+{
+	"title_en": "Invisible Totem",
+	"title_de": "Unsichtbares Totem",
+	
+    "desc_en": "Makes the Totem of Undying not show up in the offhand.",
+    "desc_de": "Lässt das Totem der Unsterblichkeit nicht groß in der Nebenhand auftauchen.",
+
+    "of_required": false,
+    "of_advised": false
+}

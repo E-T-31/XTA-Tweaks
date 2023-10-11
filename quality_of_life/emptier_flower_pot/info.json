@@ -1,0 +1,10 @@
+{
+	"title_en": "Emptier Flower Pot",
+	"title_de": "Leerere Blumentöpfe",
+	
+    "desc_en": "Removes the dirt from empty flower pots.",
+    "desc_de": "Entfernt die Erde aus leeren Blumentöpfen.",
+    
+    "of_required": false,
+    "of_advised": false
+}

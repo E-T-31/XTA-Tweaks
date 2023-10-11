@@ -1,0 +1,16 @@
+{
+  "language.name": "English",
+  "language.region": "United Kingdom",
+  "language.code": "en_gb",
+  
+  "item.minecraft.trident": "Quindent",
+  "entity.minecraft.trident": "Quindent",
+  "subtitles.entity.drowned.shoot": "Drowned throws Quindent",
+  "subtitles.item.trident.hit": "Quindent hits",
+  "subtitles.item.trident.hit_ground": "Quindent vibrates",
+  "subtitles.item.trident.return": "Quindent returns",
+  "subtitles.item.trident.riptide": "Quindent zooms",
+  "subtitles.item.trident.throw": "Quindent clangs",
+  "subtitles.item.trident.thunder": "Quindent thunder cracks",
+  "advancements.adventure.throw_trident.description": "Throw a quindent at something.\nNote: Throwing away your only weapon is not a good idea."
+}

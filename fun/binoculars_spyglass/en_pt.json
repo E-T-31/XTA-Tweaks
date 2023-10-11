@@ -1,0 +1,12 @@
+{
+  "language.name": "Pirate Speak",
+  "language.region": "The Seven Seas",
+  "language.code": "en_pt",
+  
+  "item.minecraft.spyglass": "Binoculars",
+  "subtitles.item.spyglass.use": "Binoculars expand",
+  "subtitles.item.spyglass.stop_using": "Binoculars retract",
+  "advancements.adventure.spyglass_at_parrot.description": "Eye a parrot through binoculars",
+  "advancements.adventure.spyglass_at_ghast.description": "Eye a ghast through binoculars",
+  "advancements.adventure.spyglass_at_dragon.description": "Eye the Ender Dragon through binoculars"
+}

@@ -1,0 +1,10 @@
+{
+	"title_en": "Less Rain",
+	"title_de": "Schwächerer Regen",
+	
+    "desc_en": "Reduces the amount of rain.",
+    "desc_de": "Verringert die Regendichte.",
+
+    "of_required": false,
+    "of_advised": false
+}

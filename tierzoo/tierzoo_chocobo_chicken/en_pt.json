@@ -1,0 +1,16 @@
+{
+  "language.name": "Pirate Speak",
+  "language.region": "The Seven Seas",
+  "language.code": "en_pt",
+  
+  "item.minecraft.chicken": "Raw Chocobo",
+  "item.minecraft.cooked_chicken": "Cooked Chocobo",
+  "item.minecraft.chicken_spawn_egg": "Chocobo Cackle Fruit",
+  
+  "entity.minecraft.chicken": "Chocobo",
+  
+  "subtitles.entity.chicken.ambient": "Chocobo clucks",
+  "subtitles.entity.chicken.death": "Chocobo dies",
+  "subtitles.entity.chicken.egg": "Chocobo plops",
+  "subtitles.entity.chicken.hurt": "Chocobo hurts"
+}

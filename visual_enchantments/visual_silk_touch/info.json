@@ -1,0 +1,10 @@
+{
+    "title_en": "Silk Touch",
+	"title_de": "Behutsamkeit",
+	
+    "desc_en": "Displays if an item is enchanted with Silk Touch.",
+    "desc_de": "Zeigt an, ob ein Gegenstand mit Behutsamkeit verzaubert ist.",
+
+    "of_required": true,
+    "of_advised": false
+}

@@ -1,0 +1,10 @@
+{
+	"title_en": "Unburned Campfire",
+	"title_de": "Unverbranntes Lagerfeuer",
+	
+    "desc_en": "Changes the ash of an unlit campfire to a spruce plank.",
+    "desc_de": "Ändert die Asche eines nicht entzündeten Lagerfeuers zu einem Fichtenholzbrett.",
+
+    "of_required": false,
+    "of_advised": false
+}

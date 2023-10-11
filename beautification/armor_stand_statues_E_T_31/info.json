@@ -1,0 +1,10 @@
+{
+	"title_en": "E_T_31 Statues",
+	"title_de": "E_T_31-Statuen",
+	
+    "desc_en": "Turns your armor stands into variants of E_T_31.",
+    "desc_de": "Verwandelt deine Rüstungsständer in E_T_31-Varianten.",
+
+    "of_required": true,
+    "of_advised": false
+}

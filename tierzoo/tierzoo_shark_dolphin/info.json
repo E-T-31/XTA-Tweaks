@@ -1,0 +1,10 @@
+{
+	"title_en": "Sharks",
+	"title_de": "Haie",
+	
+    "desc_en": "Turns dolphins into various sharks.",
+    "desc_de": "Verwandelt Delfine in verschiedene Haie.",
+
+    "of_required": true,
+    "of_advised": false
+}

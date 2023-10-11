@@ -1,0 +1,10 @@
+{
+	"title_en": "Connected Iron Blocks",
+	"title_de": "Verbundene Eisenblöcke",
+	
+    "desc_en": "Makes Iron Blocks connect.",
+    "desc_de": "Verbindet die Eisenblöcke untereinander.",
+
+    "of_required": true,
+    "of_advised": false
+}

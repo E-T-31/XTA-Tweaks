@@ -1,0 +1,10 @@
+{
+	"title_en": "Kangaroos",
+	"title_de": "Kängurus",
+	
+    "desc_en": "Turns rabbits into kangaroos.",
+    "desc_de": "Verwandelt Hasen in Kängurus.",
+
+    "of_required": true,
+    "of_advised": false
+}

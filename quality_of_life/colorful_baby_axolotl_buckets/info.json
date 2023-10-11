@@ -1,0 +1,10 @@
+{
+	"title_en": "Colorful Baby Axolotl Buckets",
+	"title_de": "Bunte Jung-Axolotleimer",
+	
+    "desc_en": "Displays whether an axolotl is a child or fully grown.",
+	"desc_de": "Zeigt an, ob sich im Eimer ein junges oder ausgewachsenes Axolotl befindet.",
+
+    "of_required": true,
+    "of_advised": false
+}

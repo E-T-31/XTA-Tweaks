@@ -1,0 +1,10 @@
+{
+	"title_en": "No Pumpkinblur",
+	"title_de": "Keine Kürbistrübe",
+	
+    "desc_en": "Removes the restricting overlay when wearing a carved pumpkin.",
+    "desc_de": "Entfernt das einschränkende Overlay beim Tragen eines geschnitzten Kürbisses.",
+
+    "of_required": false,
+    "of_advised": false
+}
