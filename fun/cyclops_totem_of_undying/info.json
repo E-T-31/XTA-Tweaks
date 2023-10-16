@@ -1,0 +1,10 @@
+{
+	"title_en": "E_T_31 Cyclops Totem of Undying",
+	"title_de": "E_T_31-Zyklopen-Totem der Unsterblichkeit",
+	
+    "desc_en": "Makes totems of undying depict a one-eyed E_T_31 cyclops.",
+    "desc_de": "Lässt Totems der Unsterblichkeit einen einäugigen E_T_31-Zyklopen darstellen.",
+
+    "of_required": false,
+    "of_advised": false
+}
