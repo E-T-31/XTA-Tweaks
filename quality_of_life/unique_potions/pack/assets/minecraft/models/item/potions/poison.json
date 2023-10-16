@@ -1,10 +1,12 @@
 {
-	"credit": "Edited by E_T_31 | https://www.youtube.com/c/E_T_31official/",
-	"credit": "const. https://www.youtube.com/channel/UCn7SVWE9X5I2-EKUtT6sU4Q",
+	"info":     "This asset is part of Extraterrestrial Tweaks",
+    "artist":   "Edited by E_T_31 | https://www.youtube.com/@E_T_31",
 	
     "parent": "item/generated",
     "textures": {
         "layer0": "item/potions/poison_overlay",
         "layer1": "item/potions/poison"
-    }
+    },
+
+    "credit":   "Extraterrestrial Tweaks | https://github.com/E-T-31/XTA-Tweaks/"
 }

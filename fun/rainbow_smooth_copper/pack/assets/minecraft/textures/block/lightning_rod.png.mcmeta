@@ -1,3 +1,11 @@
 {
-  "animation": { "frametime":32, "interpolate": true }
+    "info":     "This asset is part of Extraterrestrial Tweaks",
+    "artist":   "Created by E_T_31 | https://www.youtube.com/@E_T_31",
+    
+    "animation": {
+        "frametime":32,
+        "interpolate": true
+    },
+
+    "credit":   "Extraterrestrial Tweaks | https://github.com/E-T-31/XTA-Tweaks/"
 }

@@ -1,5 +1,7 @@
 {
-	"credit": "Created by E_T_31 | https://www.youtube.com/c/E_T_31official/",
+	"info":     "This asset is part of Extraterrestrial Tweaks",
+    "artist":   "Created by E_T_31 | https://www.youtube.com/@E_T_31",
+	
 	"textures": {
 		"spyglass": "item/spyglass_model"
 	},
@@ -85,5 +87,7 @@
 			"translation": [0, 0, -1.5],
 			"scale": [1.5, 1.5, 1.5]
 		}
-	}
+	},
+
+    "credit":   "Extraterrestrial Tweaks | https://github.com/E-T-31/XTA-Tweaks/"
 }

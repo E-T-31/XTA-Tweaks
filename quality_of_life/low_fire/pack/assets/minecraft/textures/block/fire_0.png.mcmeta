@@ -1,4 +1,7 @@
 {
+  "info":     "This asset is part of Extraterrestrial Tweaks",
+  "artist":   "Edited by E_T_31 | https://www.youtube.com/@E_T_31",
+
   "animation": {
     "frames": [
       16,
@@ -34,5 +37,7 @@
       14,
       15
     ]
-  }
+  },
+
+  "credit":   "Extraterrestrial Tweaks | https://github.com/E-T-31/XTA-Tweaks/"
 }

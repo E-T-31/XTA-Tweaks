@@ -1,6 +1,6 @@
 {
-	"credit": "Edited by E_T_31 | https://www.youtube.com/c/E_T_31official/",
-	"credit": "const. https://www.youtube.com/channel/UCn7SVWE9X5I2-EKUtT6sU4Q",
+	"info":     "This asset is part of Extraterrestrial Tweaks",
+    "artist":   "Edited by E_T_31 | https://www.youtube.com/@E_T_31",
 	
 	"parent": "block/jukebox/inactive",
     "gui_light": "side",
@@ -39,5 +39,7 @@
 			"rotation": [0, -180, 0],
 			"scale": [0.5, 0.5, 0.5]
 		}
-	}
+	},
+
+    "credit":   "Extraterrestrial Tweaks | https://github.com/E-T-31/XTA-Tweaks/"
 }

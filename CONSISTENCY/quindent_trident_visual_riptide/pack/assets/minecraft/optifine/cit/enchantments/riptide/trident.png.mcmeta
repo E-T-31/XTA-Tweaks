@@ -1,23 +1,28 @@
 {
-  "animation": {
-	"frametime": 1,
-    "frames": [
-      0,
-      0,
-      0,
-	  0,
-	  0,
-	  0,
-	  0,
-      1,
-	  2,
-	  3,
-	  4,
-	  5,
-	  6,
-	  7,
-	  8,
-	  9
-    ]
-  }
+    "info":     "This asset is part of Extraterrestrial Tweaks",
+    "artist":   "Created by E_T_31 | https://www.youtube.com/@E_T_31",
+
+	"animation": {
+		"frametime": 1,
+		"frames": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		]
+	},
+
+    "credit":   "Extraterrestrial Tweaks | https://github.com/E-T-31/XTA-Tweaks/"
 }

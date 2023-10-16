@@ -1,11 +1,13 @@
 {
-    "credit": "Created by E_T_31 | https://www.youtube.com/c/E_T_31official/",
-    "credit": "const. https://www.youtube.com/channel/UCn7SVWE9X5I2-EKUtT6sU4Q",
+    "info":     "This asset is part of Extraterrestrial Tweaks",
+    "artist":   "Created by E_T_31 | https://www.youtube.com/@E_T_31",
 
     "parent": "minecraft:block/slab",
     "textures": {
         "bottom": "minecraft:block/slightly_exposed_cut_copper",
         "top": "minecraft:block/slightly_exposed_cut_copper",
         "side": "minecraft:block/slightly_exposed_cut_copper"
-    }
+    },
+
+    "credit":   "Extraterrestrial Tweaks | https://github.com/E-T-31/XTA-Tweaks/"
 }
