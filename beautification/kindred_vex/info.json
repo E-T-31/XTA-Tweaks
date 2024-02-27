@@ -1,0 +1,12 @@
+{
+	"title_en": "Allay-like Vexes",
+	"title_de": "Hilfsgeist-verwandte Plagegeister",
+	
+    "desc_en": "Changes the 3D model of Vexes to look more like Allays.",
+    "desc_de": "Ändert das 3D-Modell von Plagegeistern so, dass sie Hilfsgeistern ähnlicher sehen.",
+
+    "of_required": true,
+    "of_advised": false,
+
+    "obsolete": 12
+}
