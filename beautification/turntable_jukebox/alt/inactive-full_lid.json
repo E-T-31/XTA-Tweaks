@@ -1,7 +1,7 @@
 {
 	"info":     "This asset is part of Extraterrestrial Tweaks",
     "artist":   "Created by E_T_31 | https://www.youtube.com/@E_T_31",
-	
+
 	"ambientocclusion": false,
 	"textures": {
 		"side": "block/jukebox_side",
@@ -9,7 +9,6 @@
 		"top": "block/jukebox_top",
 		"base": "block/note_block",
 		"glass": "block/glass",
-		"lock": "entity/chest/normal",
 		"arm": "block/jukebox_misc"
 	},
 	"elements": [
@@ -187,12 +186,12 @@
 			"to": [9, 29, 3],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 12, 0]},
 			"faces": {
-				"north": {"uv": [0.5, 0.25, 0.75, 0.75], "rotation": 270, "texture": "#lock", "cullface": "up"},
-				"east": {"uv": [0.75, 0.25, 1, 1.25], "rotation": 90, "texture": "#lock", "cullface": "up"},
-				"south": {"uv": [0.25, 0, 0.75, 0.25], "texture": "#lock", "cullface": "up"},
-				"west": {"uv": [0.5, 0.25, 0.75, 1.25], "rotation": 270, "texture": "#lock", "cullface": "up"},
-				"up": {"uv": [0.75, 0.25, 0.25, 1.25], "texture": "#lock", "cullface": "up"},
-				"down": {"uv": [1.25, 0.25, 0.75, 1.25], "rotation": 180, "texture": "#lock", "cullface": "up"}
+				"north": {"uv": [3, 0, 1, 1], "texture": "#arm", "cullface": "south"},
+				"east": {"uv": [0, 1, 1, 5], "rotation": 90, "texture": "#arm", "cullface": "south"},
+				"south": {"uv": [3, 0, 5, 1], "texture": "#arm", "cullface": "south"},
+				"west": {"uv": [3, 5, 4, 1], "rotation": 90, "texture": "#arm", "cullface": "south"},
+				"up": {"uv": [4, 1, 6, 5], "texture": "#arm", "cullface": "south"},
+				"down": {"uv": [3, 5, 1, 1], "texture": "#arm", "cullface": "south"}
 			}
 		},
 		{
@@ -285,7 +284,9 @@
 			"scale": [0.5, 0.5, 0.5]
 		}
 	},
-	"groups": [0, 1,
+	"groups": [
+		0,
+		1,
 		{
 			"name": "lid",
 			"origin": [0, 0, 0],
@@ -296,7 +297,13 @@
 					"origin": [8, 8, 8],
 					"color": 0,
 					"children": [2, 3, 4, 5, 6, 7, 8, 9, 10]
-				}, 11, 12, 13, 14, 15]
+				},
+				11,
+				12,
+				13,
+				14,
+				15
+			]
 		},
 		{
 			"name": "arm",

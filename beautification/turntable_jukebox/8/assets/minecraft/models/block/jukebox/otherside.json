@@ -1,0 +1,11 @@
+{
+	"info":     "This asset is part of Extraterrestrial Tweaks",
+    "artist":   "Created by E_T_31 | https://www.youtube.com/@E_T_31",
+	
+	"parent": "block/jukebox/active",
+	"textures": {
+		"disk": "block/music_disks/otherside"
+	},
+
+    "credit":   "Extraterrestrial Tweaks | https://github.com/E-T-31/XTA-Tweaks/"
+}
